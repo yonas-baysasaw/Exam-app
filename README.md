@@ -1,4 +1,4 @@
-# 🛠️ Exam Prep App – Backend (Django)
+# 🛠️ Exam Prep App – Backend
 
 This repository contains the backend service for the **Exam Prep App**, a mobile/web application that provides students with organized access to past exam papers across Natural Science and Social Science streams.
 
@@ -82,6 +82,3 @@ The backend powers the main functionalities of the Exam Prep App:
 
 ### **File Storage Options**
 - Local storage (development)
-
-# 🧩 Project Structure
-
