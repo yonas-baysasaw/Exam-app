@@ -76,15 +76,12 @@ The backend powers the main functionalities of the Exam Prep App:
 ### **Backend**
 - Django 5+
 - Django REST Framework (DRF)
-- PostgreSQL / SQLite / MySQL (your choice)
+- SQLit
 - Django CORS Headers
 - Python 3.10+
 
 ### **File Storage Options**
 - Local storage (development)
-- AWS S3 / Cloudinary / Firebase Storage (production)
-
----
 
 # 🧩 Project Structure
 
